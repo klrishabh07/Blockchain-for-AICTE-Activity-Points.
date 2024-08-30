@@ -1,2 +1,4 @@
 # Blockchain-for-AICTE-Activity-Points.
 Activity points are the points every student has to acquire by the end of his last semester, and one can attain these points by taking part in various social, cultural and sustainable activities conducted by the college. But there is no clear record for all these points, which is why we decided to create a blockchain for the activity points.
+
+This Blockchain allows the administration to add points to a student who is registered in the database, the data cannot be manipulated by any student since the login procedure for both a student and a administrator is different. The student is allowed to login but he can only view his points, and the history of his activities. But the administrator is allowed to view the points of every student and change them acoording to their wish.
